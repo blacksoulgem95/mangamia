@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 
 ## License
 
-Manga Mia is licensed under the [MIT License](LICENSE).
+Manga Mia is licensed under the [AGPL v3 License](LICENSE).
 
 ## Support
 
